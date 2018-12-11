@@ -361,6 +361,7 @@ table{ border-collapse: collapse; }
 .nicdark_bg_green_alpha { background-color: rgba(112, 193, 144, 0.95); }
 .nicdark_bg_greydark_alpha { background-color: rgba(101, 100, 96, 0.3); }
 .nicdark_bg_blue_alpha_4 { background-color: rgba(51, 153, 255, 0.2); }
+.nicdark_bg_blue_alpha_5 { background-color: rgba(22, 50, 112, 0.4); }
 .nicdark_bg_greydark_alpha_4 { background-color: rgba(101, 100, 96, 0.4); }
 .nicdark_bg_greydark_alpha_6 { background-color: rgba(101, 100, 96, 0.6); }
 .nicdark_bg_greydark_alpha_8 { background-color: rgba(101, 100, 96, 0.8); }
